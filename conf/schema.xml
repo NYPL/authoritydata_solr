@@ -114,5 +114,5 @@
   <defaultSearchField>term_idx</defaultSearchField>
 
   <!-- SolrQueryParser configuration: defaultOperator="AND|OR" -->
-  <solrQueryParser defaultOperator="AND"/>
+  <solrQueryParser defaultOperator="OR"/>
 </schema>
